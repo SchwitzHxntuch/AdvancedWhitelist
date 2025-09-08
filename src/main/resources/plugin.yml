@@ -1,8 +1,0 @@
-name: AdvancedWhitelist
-main: de.hxntuch.AWL.AdvancedWhitelist
-version: 1.0
-api-version: 1.20
-author: hxntuch
-
-commands:
-  whitelist:
